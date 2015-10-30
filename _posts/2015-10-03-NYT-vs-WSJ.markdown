@@ -5,4 +5,23 @@ date:   2015-10-03 16:24:05
 categories: Data
 ---
 
-I have both delivered every day, either because I am just too lazy to cancel, or they are perfect reading materials for killing time, in the bus, at work or on the toilet. 
+I have both delivered every day, either because I am just too lazy to cancel, or they are perfect reading materials for killing time, in the bus, at work or on the toilet.
+
+compare titles - Who is more biased? NYT, WSJ or NPR
+
+text analysis between different papers - each year, each day. 
+
+text analysis by topics. 
+
+1. abortion
+2. affirmative action
+3. death p
+
+text 
+
+
+1. 时效性
+2. bias
+3. qualifcation
+4. 
+5. 
